@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Collage</title>
+<link rel="stylesheet" href="newweb.css">
+<link rel="icon" href="C:\Users\MAHAVISHNU\Pictures\picture1.png">
+</head>
+<body>
+<header>
+<div class="header-content">
+<div class="logo"> <img src="C:\Users\MAHAVISHNU\Pictures\picture1.png"></div>
+<div class="u">
+<ul class="nav-link">
+<li><a href="#">HOME</a></li>
+<li><a href="#">ABOUT</a></li>
+<li><a href="#">COURESES</a></li>
+<li><a href="#">CONTACT</a></li>
+</ul>
+</div>
+</div>
+<div class="b">
+<marquee direction="leftwards" bgcolor="red" width="1200px">WELCOME TO BEST EDUCATION INSTITUTE</marquee>
+<p>Welcome To </p>
+<h1>ABC Collage OF Engg</h1>
+<a class="R" href="#">Register Here</a>
+</div>
+</header>
+</body>
+</html>                 
